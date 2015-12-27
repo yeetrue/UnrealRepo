@@ -22,7 +22,7 @@ class AProjectCharacter : public ACharacter
 	/** player pressed jump action */
 	void OnStartJump();
 
-	/** player released jump action */
+	/** player released jump action*/
 	void OnStopJump();
 
 public:
