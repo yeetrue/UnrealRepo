@@ -108,6 +108,7 @@ void AProjectCharacter::OnStartJump()
 {
 	bPressedJump = true;
 	//commit by Yee
+	//second time
 }
 
 void AProjectCharacter::OnStopJump()
