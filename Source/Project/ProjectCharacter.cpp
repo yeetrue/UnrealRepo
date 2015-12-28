@@ -107,6 +107,7 @@ void AProjectCharacter::MoveRight(float Value)
 void AProjectCharacter::OnStartJump()
 {
 	bPressedJump = true;
+	//commit by Yee
 }
 
 void AProjectCharacter::OnStopJump()
